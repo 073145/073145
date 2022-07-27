@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Weslley Soares
-- 👀 I’m interested in Electronics, Hardware Programming, Task Automations.
-- 🌱 I’m currently learning operating systems, virtualization, database, web development etc.
-- 💞️ I’m looking to collaborate on life optimization techniques. Better work, less work.
+- 👀 I’m interested in Electronics, Hardware Programming, Task Automation, Data Science.
+- 🌱 I’m currently learning data analysis, machine learning, web development etc.
+- 💞️ I’m looking to collaborate on life optimization techniques. Work smart, not hard.
 - 📫 How to reach me ... https://www.linkedin.com/in/ws-frs/
 
 
