@@ -2,7 +2,7 @@
 - 👀 I’m interested in Electronics, Hardware Programming, Task Automation, Data Science.
 - 🌱 I’m currently learning data analysis, machine learning, web development etc.
 - 💞️ I’m looking to collaborate on life optimization techniques. Work smart, not hard.
-- 📫 How to reach me ... https://www.linkedin.com/in/ws-frs/
+- 📫 How to reach me ... https://www.linkedin.com/in/ws-fr22s/
 
 
 
