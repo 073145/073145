@@ -1,7 +1,7 @@
 - 👋 AHOy!
 - 👀 I’m interested in Electronics, Automation, F.O.S.S, Open Hardware, Data Science...
 - 🌱 I’m learning about physics, neuroscience, computer engineering; I.T and STEAM stuff
-- 💞️ Seeking to solve and make obsolete non-trivial problems through applied science. Work smart, not hard.
+- 💞️ I'm seeking to nontrivial solutions through applied science. Work smart, not hard.
 - 📫 How to reach me: https://www.linkedin.com/in/ws-fr22s/
 
 
