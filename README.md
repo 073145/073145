@@ -2,6 +2,7 @@
 - 👀 I’m interested in Electronics, Automation, F.O.S.S, Open Hardware, Data Science...
 - 🌱 I’m learning about physics, neuroscience, computer engineering; I.T and STEAM stuff
 - 💞️ I'm seeking to nontrivial solutions through applied science. Work smart, not hard.
+- ⚛ Art + Science = Magick! 
 - 📫 How to reach me: https://www.linkedin.com/in/ws-fr22s/
 
 
