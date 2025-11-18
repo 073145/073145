@@ -1,36 +1,56 @@
-# Ahoy!? 👋
+Welcome to my GitHub—where curiosity meets creative technology to build the future.
+👋 Engineering as Art, Science, and Expression
+I see engineering as the defining "magic" of our era—a bridge between imagination and reality. My work spans S.T.E.A.M. (Science, Technology, Engineering, Arts, Mathematics), weaving together digital, physical, and human experiences. Here, every project is a step toward shaping what’s next—one circuit, one line of code, one idea at a time.
 
-Welcome to my GitHub space, where curiosity and a passion for **creative technology** converge to bring innovative and impactful projects to life!
+⚙️ Core Interests & Practice Areas
+My work thrives at the intersection of innovation, interactivity, and open exploration:
 
-👋 **Engineering as Art, Science, and Expression:**
-I believe that **engineering is the true "magic"** of our time, and I am dedicated to unraveling and applying it across the S.T.E.A.M fields (Science, Technology, Engineering, Arts, and Mathematics). My journey is about building the future, pixel by pixel and circuit by circuit, exploring the nexus between the digital, the physical, and the **human experience**.
 
-⚙️ **My Core Interests & Areas of Practice:**
-My passions and areas of practice are vast, interconnected, and centered on **innovation and interactivity**:
+Embedded Electronics & Open Hardware
+Designing low-power devices, wearables, and microcontroller-based systems (AVR, ESP, PIC). A firm believer in F.O.S.S. (Free/Open-Source Software) and open hardware as tools for democratized creation.
 
-* **Embedded Electronics & Open Hardware:** From designing low-power **pocket devices** and **wearable computing** solutions to intricate systems with microcontrollers (AVR, ESP, PIC). I am a strong advocate for **F.O.S.S. (Free and Open Source Software)** and **Open Hardware** philosophies.
-* **Automation, Robotics & IoT:** Developing systems that interact with the physical world, from small actuators to the **Internet of Things (IoT)** and autonomous control solutions. My vision extends to **ubiquitous computing**, where technology seamlessly integrates into our environment.
-* **Physical & Mathematical Simulations & Analysis:** Building models and algorithms to understand, predict, and manipulate the behavior of complex systems, applying **scientific analysis** and **phenomena modeling**.
-* **3D Modeling, CAD & CAM:** From conceptualizing components in **Systems Design** to developing prototypes and final products with **CAD (Computer-Aided Design)**, and advanced manufacturing through **CAM (Computer-Aided Manufacturing)**, rapid prototyping, and 3D printing.
-* **Audio Visual & Sound Creation:** Exploring the creation of immersive audiovisual experiences, from signal processing for **Synths (Synthesizers)** and **interactive installations** to **projection mapping** techniques that transform spaces.
-* **Creative & Live Coding:** Utilizing programming as an expressive tool to craft real-time generative art and interactive performances, pushing the aesthetic possibilities of code.
-* **InfoSec (Information Security):** A deep interest in privacy, cryptography, and system security, including the development of tools for **ethical pentesting, countermeasures**, and securing **ubiquitous computing** environments.
-* **Data Science:** Employing advanced **scientific analysis** and **modeling** techniques to extract valuable insights and optimize the performance of complex systems and processes.
 
-📚 **Continuous Learning & Interdisciplinary Research:**
-I possess an insatiable curiosity and am always open to new research and deepening my knowledge in fields such as **Theoretical and Applied Physics**, **Neuroscience**, and advancing my expertise in **Computer Engineering** and **Information Technology**. For me, continuous learning and **interdisciplinarity** are the driving forces behind innovation and creation.
+Automation, Robotics & IoT
+Building systems that bridge the digital and physical—from actuators to autonomous controls and ubiquitous computing, where technology fades into the fabric of daily life.
 
-💡 **My Project Philosophy:**
-My goal is to craft **nontrivial solutions** that challenge the status quo, seamlessly blending the **art** of creative conception with the **science** of technical execution. My motto is always to **work smart, not just hard**, striving for efficiency, elegance, and innovation in every challenge I embrace, transforming complex ideas into tangible experiences.
 
----
+Physical & Mathematical Simulations
+Modeling complex systems to predict, analyze, and manipulate behavior—applying scientific rigor to real-world phenomena.
 
-🤝 **Connect & Collaborate:**
-Explore my repositories to discover projects in hardware, firmware, simulations, interactive installations, and much more. If my passions align with yours, feel free to open an *issue*, propose an idea, or start a discussion!
 
-Linkedin: ...
+3D Modeling, CAD & CAM
+From conceptual design to prototyping and manufacturing, using CAD/CAM, rapid prototyping, and 3D printing to turn ideas into tangible objects.
 
-<!---
-073145/073145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Audiovisual & Sound Creation
+Crafting immersive experiences through signal processing (synths, interactive installations) and projection mapping, transforming spaces with light and sound.
+
+
+Creative & Live Coding
+Using code as a medium for real-time generative art and interactive performances—where algorithms become expressive tools.
+
+
+InfoSec (Information Security)
+Exploring privacy, cryptography, and ethical hacking—developing tools for security testing and safeguarding ubiquitous systems.
+
+
+Data Science
+Extracting insights and optimizing systems through advanced analysis, modeling, and scientific computation.
+
+
+
+📚 Learning & Interdisciplinary Research
+Driven by relentless curiosity, I dive deep into theoretical physics, neuroscience, computer engineering, and beyond. For me, interdisciplinarity isn’t just a method—it’s the foundation of innovation.
+
+💡 Project Philosophy
+I build nontrivial solutions that challenge conventions, merging creative vision with technical precision. My approach:
+✅ Work smart, not just hard—prioritizing efficiency, elegance, and impact.
+✅ Turn complexity into clarity—transforming abstract ideas into functional, meaningful experiences.
+
+🤝 Let’s Collaborate
+Browse my repositories to explore projects in hardware, firmware, simulations, interactive art, and more. If our passions align:
+
+Open an issue with ideas or questions.
+Propose a collaboration—let’s build something extraordinary together.
+
+What will we create next?
