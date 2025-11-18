@@ -1,4 +1,4 @@
-Welcome to my GitHub—where curiosity meets creative technology to build the future.
+Welcome to my GitHub — where curiosity meets creative technology to build the future.
 ---
 ###
 👋 Engineering as Art, Science, and Expression
@@ -7,6 +7,7 @@ I see engineering as the defining "magic" of our era—a bridge between imaginat
 
 ---
 ⚙️ Core Interests & Practice Areas
+
 My work thrives at the intersection of innovation, interactivity, and open exploration:
 
 - Embedded Electronics & Open Hardware
@@ -42,8 +43,14 @@ Driven by relentless curiosity, I dive deep into theoretical physics, neuroscien
 I build nontrivial solutions that challenge conventions, merging creative vision with technical precision. My approach:
 - ✅ Work smart, not just hard—prioritizing efficiency, elegance, and impact.
 - ✅ Turn complexity into clarity—transforming abstract ideas into functional, meaningful experiences.
+
 ---
+
 🤝 Let’s Collaborate
 Browse my repositories to explore projects in hardware, firmware, simulations, interactive art, and more. If our passions align:
 
 Open an issue with ideas or questions. Propose a collaboration—let’s build something extraordinary together. What will we create next?
+
+---
+
+
