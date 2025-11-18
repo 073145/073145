@@ -3,7 +3,7 @@ Welcome to my GitHub — where curiosity meets creative technology to build the 
 ###
 👋 Engineering as Art, Science, and Expression
 
-I see engineering as the defining "magic" of our era—a bridge between imagination and reality. My work spans S.T.E.A.M. (Science, Technology, Engineering, Arts, Mathematics), weaving together digital, physical, and human experiences. Here, every project is a step toward shaping what’s next—one circuit, one line of code, one idea at a time.
+I see engineering as the defining "magic" of our era—a bridge between imagination and reality. My work spans S.T.E.A.M. (Science, Technology, Engineering, Arts, Mathematics), weaving together digita[...]
 
 ---
 ⚙️ Core Interests & Practice Areas
@@ -35,7 +35,7 @@ Exploring privacy, cryptography, and ethical hacking—developing tools for secu
 Extracting insights and optimizing systems through advanced analysis, modeling, and scientific computation.
 
 📚 Learning & Interdisciplinary Research
-Driven by relentless curiosity, I dive deep into theoretical physics, neuroscience, computer engineering, and beyond. For me, interdisciplinarity isn’t just a method—it’s the foundation of innovation.
+Driven by relentless curiosity, I dive deep into theoretical physics, neuroscience, computer engineering, and beyond. For me, interdisciplinarity isn’t just a method—it’s the foundation of innov[...]
 
 ---
 
@@ -53,4 +53,14 @@ Open an issue with ideas or questions. Propose a collaboration—let’s build s
 
 ---
 
-
+<!-- Stats side-by-side -->
+<table>
+  <tr>
+    <td valign="top">
+      <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=073145&show_icons=true&theme=transparent" />
+    </td>
+    <td valign="top">
+      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=073145&layout=compact" />
+    </td>
+  </tr>
+</table>
