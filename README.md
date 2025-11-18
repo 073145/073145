@@ -57,10 +57,10 @@ Open an issue with ideas or questions. Propose a collaboration—let’s build s
 <table>
   <tr>
     <td valign="top">
-      <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=073145&show_icons=true&theme=vue" />
+      <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=073145&show_icons=true&theme=swift" />
     </td>
     <td valign="top">
-      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=073145&layout=compact" />
+      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=073145&layout=compact&theme=swift" />
     </td>
   </tr>
 </table>
